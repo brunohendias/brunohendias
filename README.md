@@ -1,7 +1,10 @@
 # Hi There
-
+<div style="display: inline_block">
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=brunohendias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohendias&layout=compact&langs_count=7&theme=dracula)
+
+</div>
 
 <br>
 
