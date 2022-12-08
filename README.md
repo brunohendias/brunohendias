@@ -1,9 +1,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=brunohendias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-<br>
-
-# Languages
-
+## Languages
 <div style="display: inline_block">
 <img alt="csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img alt="php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"/>
@@ -14,9 +11,8 @@
 <img alt="css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img alt="bash" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" />
 </div>
-<br>
 
-# Frameworks
+## Frameworks
 <div style="display: inline_block">
 <img alt="vuejs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" />
 <img alt="reactjs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -27,9 +23,7 @@
 <img alt="django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" />
 </div>
 
-<br>
-
-# Devops
+## Devops
 <div style="display: inline_block">
 <img alt="docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" />
 <img alt="vagrant" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vagrant/vagrant-original.svg" />
@@ -39,9 +33,7 @@
 <img alt="nginx" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" />
 </div>
 
-<br>
-
-# Database
+## Database
 <div style="display: inline_block">
 <img alt="oracle" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" />
 <img alt="postgresql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />
@@ -49,18 +41,14 @@
 <img alt="redis" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg" />
 </div>
 
-<br>
-
-# Operational System
+## Operational System
 <div style="display: inline_block">
 <img alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
 <img alt="windows" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" />
 <img alt="apple" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg" />
 </div>
 
-<br>
-
-# Social Media Links 
+## Social Media Links 
 <div style="display: inline_block">
 <a href="https://www.linkedin.com/in/brunohda5" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -72,7 +60,5 @@
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
 </div>
-
-<br>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohendias&layout=compact&langs_count=7&theme=dracula)
