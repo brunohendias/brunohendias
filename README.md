@@ -1,5 +1,3 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=brunohendias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
 <div style="display: inline_block;" align="center">
   
 ### Languages
